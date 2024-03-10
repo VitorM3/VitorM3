@@ -19,7 +19,7 @@
 <p align="center">Style made to match with the GitHub dark mode, I like more this theme 🌙</p>
 
 ### :man_technologist: About Me :
--  :telescope: Hello everyone, my name is Vitor, I'm 18 years old 
+-  :telescope: Hello everyone, my name is Vitor, I'm 20 years old 
 -  :zap: I'm a fullstack web developer from Brazil
 -  	:earth_americas:  I am currently working as a software developer at Innova Connect
 - :space_invader: In my free time I like to read books, play online games and improve my knowledge 
